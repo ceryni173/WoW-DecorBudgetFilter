@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "Bash(del \"c:\\\\Program Files \\(x86\\)\\\\World of Warcraft\\\\_retail_\\\\Interface\\\\AddOns\\\\DecorBudgetFilter_dev\\\\ref_HousingCatalogFilters.lua\")"
+    ]
+  }
+}

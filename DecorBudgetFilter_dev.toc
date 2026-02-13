@@ -1,0 +1,12 @@
+## Interface: 120001
+## Title: DecorBudgetFilter (Dev)
+## Notes: Adds a budget filter (placement cost) to Housing catalog via data-level filtering
+## Author: Ceryni-Moonglade
+## Version: 2.0.0
+## SavedVariables: DecorBudgetFilterDB
+## X-Category: Housing
+## X-Website: https://www.curseforge.com/wow/addons/decor-budget-filter
+## X-Curse-Project-ID: 1461141
+## IconTexture: Interface\Icons\inv_misc_coin_01
+
+DecorBudgetFilter.lua

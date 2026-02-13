@@ -1,0 +1,23 @@
+# WoW Addon Development
+*.bak
+*.orig
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Packager
+.release/
+release/
+*.zip
+
+# Windows
+desktop.ini
+
+# Testing
+Testing
