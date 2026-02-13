@@ -20,4 +20,7 @@ release/
 desktop.ini
 
 # Testing
-Testing
+Testing/
+
+# Local dev TOC (not needed in repo - release TOC is DecorBudgetFilter.toc)
+DecorBudgetFilter_dev.toc

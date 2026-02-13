@@ -12,3 +12,6 @@ ignore:
   - .git
   - .gitignore
   - .github
+  - .claude
+  - DecorBudgetFilter_dev.toc
+  - DecorBudgetFilter copy.lua
